@@ -1,0 +1,94 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    font-family: Poppins, sans-serif;
+}
+
+
+.page_one img{
+    position: absolute;
+    top: 240px;
+    right: 210px;
+    z-index: -1;
+}
+.page_one_text h1{
+    font-size: 50px;
+    font-weight: bold;
+}
+.page_one_text p{
+    font-size: 21px;
+    font-weight: 100;
+    color: #525050;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+form label{
+    font-size: 17px;
+    letter-spacing: 1px;
+    font-weight: 100;
+    color: #505050;
+    line-height: 31px;
+    margin-top: 20px;
+    display: block;
+}
+form label span{
+    color: #f9c935;
+}
+form input{
+    width: 678px;
+    padding: 15px 10px;
+    margin-top: 15px;
+    border: 1px solid rgb(159, 159, 159);
+    font-size: 14px;
+    outline: none;
+}
+form textarea{
+    width: 678px;
+    padding: 15px 10px;
+    margin-top: 15px;
+    border: 1px solid rgb(159, 159, 159);
+    font-size: 14px;
+    outline: none;
+    height: 180px;
+    resize: none;
+    display: block;
+}
+form button{
+    width: 678px;
+    background-color: #f9c935;
+    padding: 14px 0;
+    font-size: 17px;
+    font-weight: bold;
+    border: 1px solid transparent;
+    margin-top: 30px;
+}
+.oage_one_box h3{
+  font-weight: bold;
+  margin-top: 70px;
+}
+.oage_one_box p{
+    font-size: 17px;
+    font-weight: 100;
+    color: #525050;
+    margin-top: 13px;
+}
+
+.page_one_data{
+    display: flex;
+    width: 1150px;
+    margin: auto;
+    margin-top: 240px;
+}
+.page_one_data_left{
+    width: 678px;
+}
+.page_one_data_right{
+    margin-top: 175px;
+    margin-left: 100px;
+}
+
+/* ========================================= * ( / page one ) * ===================================== */
+
+
+
